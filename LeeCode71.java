@@ -1,3 +1,6 @@
+
+import java.util.Stack;
+
 class Solution {
     public String simplifyPath(String path) {
         String[] pathList = path.split("/");
